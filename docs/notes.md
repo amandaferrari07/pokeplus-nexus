@@ -16,3 +16,4 @@ Notes and usage details for pokeplus-nexus.
 - add a note about the defaults
 - clarify the setup steps
 - add a note about the defaults
+- clarify the setup steps
